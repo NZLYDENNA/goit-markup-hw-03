@@ -137,11 +137,6 @@ body {
     display: flex;
     gap: 32px;
 }
-/*img {
-    display: block;
-    max-width: 100%;
-    object-fit: scale-down;
-}*/
 .block {
     font-size: 36px;
     line-height: 1.11;
