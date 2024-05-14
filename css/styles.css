@@ -226,6 +226,7 @@ body {
 
 .ending {
     background-color: #2e2f42;
+    padding: 100px 0;
 }
 .ending .down-logo {
     font-family: Raleway, sans-serif;
@@ -239,8 +240,13 @@ body {
 .ending .second-down-logo {
     color: #f4f4fd;
 }
+.footer {
+    display: inline-block;
+    margin-bottom: 16px;
+}
 .annotation {
     line-height: 1.5;
     color: #f4f4fd;
     letter-spacing: 0.02em;
+    max-width: 264px;
 }
