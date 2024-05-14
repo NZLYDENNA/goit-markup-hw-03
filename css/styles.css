@@ -17,7 +17,6 @@ body {
 .navigation {
     display: flex;
     align-items: center;
-    gap: 100px;
     margin-right: 76px;
 }
 .navigation .logo {
@@ -48,6 +47,7 @@ body {
     align-items: center;
     justify-content: space-between;
     gap: 40px;
+    padding: 24px 0;
 }
 .page-nav .link:hover,
 .page-nav .link:focus {
