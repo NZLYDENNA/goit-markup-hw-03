@@ -85,6 +85,7 @@ body {
 }
 .servis {
     background-color: #2e2f42;
+    padding: 188px 0;
 }
 .idea-servis {
     font-size: 56px;
@@ -92,15 +93,9 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     color: hsl(0, 0%, 100%);
-
-    width: 496px;
-    height: 120px;
-    top: 260px;
-    left: 472px;
-    gap: 0px;
-    opacity: 0px;
+    max-width: 496px;
 }
-.servis .button-servis {
+.button-servis {
     background-color: #4d5ae5;
     font-family: inherit;
     font-weight: 500;
@@ -108,22 +103,18 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
+    display: block;
+    margin-top: 428px;
+    margin-left: 636px;
+    cursor: pointer;
 }
 .servis .button-servis:hover,
 .servis .button-servis:focus {
     background-color: #404bbf;
-}
-.button-servis {
-    cursor: pointer;
-
-    width: Hug (169px) px;
-    height: Hug (56px) px;
-    top: 428px;
-    left: 636px;
-    padding: 16px 32px 16px 32px;
-    gap: 10px;
-    border-radius: 4px 0px 0px 0px;
-    opacity: 0px;
 }
 .description {
     font-weight: 500;
