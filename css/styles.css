@@ -109,12 +109,10 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-
     min-width: 169px;
     height: 56px;
     border: none;
     border-radius: 4px;
-
     cursor: pointer;
 }
 .servis .button-servis:hover,
@@ -177,14 +175,6 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
 }
-/*.container {
-    display: flex;
-    align-self: center;
-    justify-content: center;
-}
-.container-item {
-    display: flex;
-}*/
 .ending {
     background-color: #2e2f42;
 }
