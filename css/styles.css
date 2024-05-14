@@ -4,9 +4,12 @@ body {
     background-color: #ffffff;
 }
 .header {
+    border-bottom: 1px solid #e7e9fc;
+}
+.header-box {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .navigation {
     display: flex;
@@ -78,7 +81,7 @@ body {
 .servis {
     background-color: #2e2f42;
 }
-.servis .idea-servis {
+.idea-servis {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -173,14 +176,14 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
 }
-.container {
-    display: flex;
-}
-.container-item {
+/*.container {
     display: flex;
     align-self: center;
     justify-content: center;
 }
+.container-item {
+    display: flex;
+}*/
 .ending {
     background-color: #2e2f42;
 }
