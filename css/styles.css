@@ -6,15 +6,19 @@ body {
 .header {
     border-bottom: 1px solid #e7e9fc;
 }
-.header-box {
+.container {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px 0 15px;
 }
 .navigation {
     display: flex;
     align-items: center;
     gap: 100px;
+    margin-right: 76px;
 }
 .navigation .logo {
     font-family: Raleway, sans-serif;
@@ -60,7 +64,8 @@ body {
     list-style: none;
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 40px;
+    padding: 24px 0;
 }
 .contacts .contact {
     font-size: 16px;
