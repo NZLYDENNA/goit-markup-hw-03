@@ -129,6 +129,7 @@ img {
 }
 .visually-hidden {
     visibility: hidden;
+    pointer-events: none;
     position: absolute;
 }
 .featers-block {
