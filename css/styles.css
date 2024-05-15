@@ -184,11 +184,11 @@ img {
 }
 .member {
     background-color: #ffffff;
-    width: calc((100%-72px) / 4);
+    width: calc((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px;
 }
 .information {
-    padding: 32px 16px;
+    padding: 32px 16px 32px;
 }
 .name {
     font-weight: 500;
@@ -228,7 +228,7 @@ img {
     list-style-type: none;
 }
 .list-item {
-    width: calc((100%-48px) / 3);
+    width: calc((100% - 48px) / 3);
 }
 .name-project {
     padding: 32px 16px;
