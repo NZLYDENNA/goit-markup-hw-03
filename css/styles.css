@@ -192,7 +192,7 @@ img {
     border-radius: 0px 0px 4px 4px;
 }
 .information {
-    padding: 32px 16px;
+    padding: 32px 0;
 }
 .name {
     font-weight: 500;
