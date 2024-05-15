@@ -194,6 +194,7 @@ img {
 }
 .information {
     padding: 32px 0;
+    text-align: center;
 }
 .name {
     font-weight: 500;
