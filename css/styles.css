@@ -241,11 +241,13 @@ img {
     color: #4d5ae5;
     text-decoration: none;
     margin-bottom: 16px;
+    display: inline-block;
 }
 .second-down-logo {
     color: #f4f4fd;
     text-decoration: none;
     margin-bottom: 16px;
+    display: inline-block;
 }
 .annotation {
     line-height: 1.5;
